@@ -9,7 +9,7 @@
 | 👤 Nome | 💼 Função |
 |---|---|
 | **Jose Gonçalves Pereira Neto** | Função |
-| **Leonardo Henrique Alves** | Função |
+| **Leonardo Henrique Alves** | Front-end |
 | **Leonardo Jose Tebar** | Função |
 | **Pedro** | Função |
 | **Vitor Yuri Hirose Pena** | Função |
