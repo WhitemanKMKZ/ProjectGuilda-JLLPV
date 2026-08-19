@@ -11,7 +11,7 @@
 | **Jose Gonçalves Pereira Neto** | Função |
 | **Leonardo Henrique Alves** | Front-end |
 | **Leonardo Jose Tebar** | Função |
-| **Pedro** | Função |
+| **Pedro Henrique De Souza** | Função |
 | **Vitor Yuri Hirose Pena** | Função |
 
 ---
