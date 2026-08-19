@@ -2,7 +2,7 @@
 Projeto Aula Engenharia De Software
 
 
-##Integrantes
+## Integrantes
 
 | Jose                         |  Função  |
 | Leonardo Henrique Alves      |  Função  |
@@ -11,5 +11,5 @@ Projeto Aula Engenharia De Software
 | Vitor Yuri Hirose Pena       |  Função  | 
 
 
-##Tecnologias Utilizadas 
+## Tecnologias Utilizadas 
 
