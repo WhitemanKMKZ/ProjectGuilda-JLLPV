@@ -23,11 +23,11 @@ oferecendo maior praticidade para a profissional e suas clientes
 
 ## Funcionalidades do Sistema
   
-  * Cadastro de usuarios
-  * Login de usuarios
-  * Possibilidade de agendar horários
-  * cadastrar o dono/dona do estabelecimento
-  * adição de produtos ao carrinho
+| ** Cadastro de usuarios
+| ** Login de usuarios
+| ** Possibilidade de agendar horários
+| ** cadastrar o dono/dona do estabelecimento
+| ** adição de produtos ao carrinho
 ---
 
 ## 👥 Integrantes
