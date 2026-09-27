@@ -1,7 +1,33 @@
 # 🎓 ProjectGuilda-JLLPV
 
 > 📚 Projeto da disciplina de **Engenharia de Software**
+---
 
+## Descrição
+
+A LUMORA é um projeto que consiste no desenvolvimento de um aplicativo
+destinado ao gerenciamento de um salão de beleza. A aplicação contará 
+com recursos para organização dos atendimentos, agendamento de horários
+e comercialização de perucas naturais, reunindo diferentes funcionalidades
+em uma única plataforma.
+---
+
+## Objetivo do Projeto
+
+O objetivo principal do projeto é desenvolver uma solução tecnológica capaz
+de contribuir para a organização e a eficiência na gestão do salão. A aplicação 
+busca facilitar o controle da agenda e dos atendimentos, além de proporcionar 
+um meio adequado para a divulgação e comercialização de perucas naturais, 
+oferecendo maior praticidade para a profissional e suas clientes
+---
+
+## Funcionalidades do Sistema
+  
+  * Cadastro de usuarios
+  * Login de usuarios
+  * Possibilidade de agendar horários
+  * cadastrar o dono/dona do estabelecimento
+  * adição de produtos ao carrinho
 ---
 
 ## 👥 Integrantes
