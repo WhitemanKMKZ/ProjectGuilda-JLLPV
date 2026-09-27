@@ -72,6 +72,11 @@ O **ProjectGuilda-JLLPV** é um projeto desenvolvido para a disciplina de **Enge
 
 ---
 
+## Interface Lumora
+## https://www.figma.com/make/p6BL3VcCCpwj2gyPy6mgFc/Criar-interface-clic%25C3%25A1vel?code-node-id=0-6&p=f&t=WsGvHzy1MilFOLd6-0&fullscreen=1
+
+--- 
+
 ## 📂 Estrutura do Projeto
 
 ```text
