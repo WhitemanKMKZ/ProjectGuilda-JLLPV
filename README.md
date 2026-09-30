@@ -1,4 +1,4 @@
-# 🎓 ProjectGuilda-JLLPV
+# 🎓 LUMORA - ProjectGuilda-JLLPV
 
 > 📚 Projeto da disciplina de **Engenharia de Software**
 ---
