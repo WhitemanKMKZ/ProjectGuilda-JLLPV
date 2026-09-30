@@ -12,7 +12,13 @@ e comercialização de perucas naturais, reunindo diferentes funcionalidades
 em uma única plataforma.
 ---
 
-## Objetivo do Projeto
+## 🎯 Objetivos
+
+- 📖 Aplicar conceitos de Engenharia de Software;
+- 👥 Trabalhar em equipe;
+- 🔧 Utilizar ferramentas de desenvolvimento;
+- 📋 Organizar e documentar o projeto;
+- 🚀 Desenvolver uma solução utilizando boas práticas de programação.
 
 O objetivo principal do projeto é desenvolver uma solução tecnológica capaz
 de contribuir para a organização e a eficiência na gestão do salão. A aplicação 
@@ -59,16 +65,6 @@ As principais tecnologias utilizadas no desenvolvimento do projeto são:
 ## 📌 Sobre o Projeto
 
 O **ProjectGuilda-JLLPV** é um projeto desenvolvido para a disciplina de **Engenharia de Software**, com o objetivo de aplicar na prática os conceitos apresentados durante as aulas.
-
----
-
-## 🎯 Objetivos
-
-- 📖 Aplicar conceitos de Engenharia de Software;
-- 👥 Trabalhar em equipe;
-- 🔧 Utilizar ferramentas de desenvolvimento;
-- 📋 Organizar e documentar o projeto;
-- 🚀 Desenvolver uma solução utilizando boas práticas de programação.
 
 ---
 
