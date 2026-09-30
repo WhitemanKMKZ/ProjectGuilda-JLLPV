@@ -40,7 +40,7 @@ oferecendo maior praticidade para a profissional e suas clientes
 
 | 👤 Nome | 💼 Função |
 |---|---|
-| **Jose Gonçalves Pereira Neto** | Função |
+| **Jose Gonçalves Pereira Neto** | Back-end |
 | **Leonardo Henrique Alves** | Front-end |
 | **Leonardo Jose Tebar** | Função |
 | **Pedro Henrique De Souza** | Função |
