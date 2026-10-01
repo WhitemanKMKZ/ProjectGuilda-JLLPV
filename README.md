@@ -2,7 +2,7 @@
 
 # 💎 LUMORA
 
-**Gestão de salão de beleza e venda de perucas naturais em uma única plataforma.**
+**Gestão de salão de beleza e venda de produtos em uma única plataforma.**
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-b8892b)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -10,7 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-*ProjectGuilda-JLLPV · Projeto da disciplina de Engenharia de Software*
+*ProjectGuilda-JLLPV · Projeto da disciplina de Engenharia de Software/ P.I*
 
 </div>
 
@@ -31,7 +31,7 @@
 
 ## 📖 Sobre o projeto
 
-A **LUMORA** é um aplicativo para o gerenciamento de um salão de beleza. A plataforma reúne, em um só lugar, a organização dos atendimentos, o agendamento de horários e a comercialização de perucas naturais.
+A **LUMORA** é um aplicativo para o gerenciamento de um salão de beleza. A plataforma reúne, em um só lugar, a organização dos atendimentos, o agendamento de horários e a comercialização de produtos.
 
 A solução busca trazer **praticidade e eficiência** tanto para a profissional, que passa a controlar sua agenda e suas vendas, quanto para as clientes, que agendam serviços e escolhem produtos de forma simples.
 
