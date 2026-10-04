@@ -106,7 +106,7 @@ Não é necessário instalar dependências.
 
 | Recurso | Link |
 |---|---|
-| 🎨 Interface (Figma) | [Protótipo da interface Lumora](https://www.figma.com/make/p6BL3VcCCpwj2gyPy6mgFc/Criar-interface-clic%25C3%25A1vel?code-node-id=0-6&p=f&t=WsGvHzy1MilFOLd6-0&fullscreen=1) |
+| 🎨 Interface (canva) | [Protótipo da interface Lumora](https://canva.link/l64kext3h0x9wm0) |
 | 📊 Planilha do projeto | [Google Planilhas](https://docs.google.com/spreadsheets/d/12rvJE7hvHuAYC0oeSAkxiAsvCnfeRgqhElNUBJeFJPk/edit?gid=0#gid=0) |
 
 ## 👥 Equipe
