@@ -76,14 +76,10 @@ O projeto foi desenvolvido na disciplina de **Engenharia de Software**, com o pr
 
 ```text
 ProjectGuilda-JLLPV/
-├── src/
-│   ├── index.html      # Páginas e telas
-│   ├── css/
-│   │   └── style.css   # Estilos
-│   └── js/
-│       └── app.js      # Lógica da aplicação
-├── assets/             # Imagens e demais recursos
-├── docs/               # Documentação do projeto
+├── index.html          # Páginas e telas
+├── style.css           # Estilos
+├── app.js              # Lógica da aplicação
+├── Links/              # Diagramas (classes, fluxograma e caso de uso)
 └── README.md
 ```
 
@@ -97,7 +93,7 @@ git clone https://github.com/<usuario>/ProjectGuilda-JLLPV.git
 cd ProjectGuilda-JLLPV
 
 # 3. Abra o protótipo no navegador
-#    (dê um duplo clique em src/index.html)
+#    (dê um duplo clique em index.html)
 ```
 
 Não é necessário instalar dependências.
@@ -107,6 +103,9 @@ Não é necessário instalar dependências.
 | Recurso | Link |
 |---|---|
 | 🎨 Interface (canva) | [Protótipo da interface Lumora](https://canva.link/l64kext3h0x9wm0) |
+| 🧩 Diagrama de classes | [Ver diagrama](Links/diagrama-classes.md) |
+| 🔀 Fluxograma do site | [Ver fluxograma](Links/fluxograma.md) |
+| 👥 Diagrama de caso de uso | [Ver diagrama](Links/diagrama-caso-de-uso.md) |
 | 📊 Planilha do projeto | [Google Planilhas](https://docs.google.com/spreadsheets/d/12rvJE7hvHuAYC0oeSAkxiAsvCnfeRgqhElNUBJeFJPk/edit?gid=0#gid=0) |
 
 ## 👥 Equipe
